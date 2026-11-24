@@ -35,11 +35,15 @@ A data-driven application built with Python and Flask to analyze structured data
 - [🚀 Project Overview](#-project-overview)
 - [🧰 Features](#-features)
 - [📁 Project Structure](#-project-structure)
+- [👥Team Members & Contributions](#-team-members-&-contributions)
+- [📽️Project Presentation & Demo](#-project-presentation-&-demo)
+- [📂Directory Guide](#-directory-guide)
 - [🛠️ Installation](#️-installation)
 - [▶️ Usage](#️-usage)
 - [📊 Data Analysis](#-data-analysis)
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
+
 
 </details>
 
