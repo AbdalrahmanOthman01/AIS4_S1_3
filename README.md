@@ -1,105 +1,136 @@
-# 🚀 AIS4_S1_3 — DEPI Team Project
+ <div align="center">
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E46,50:6C63FF,100:00C9FF&height=220&section=header&text=AIS4_S1_3&fontSize=68&fontColor=ffffff&fontAlignY=38&desc=DEPI%20Team%20Project&descSize=22&descAlignY=60&animation=fadeIn" width="100%" alt="AIS4_S1_3 Project Banner"/>
 
-### Data Analysis · Machine Learning · Visualization · Flask Web Development
+### ✨ Data Analysis • Machine Learning • Visualization • Flask
 
-A Python-based data-driven application that combines data analysis, visualization, machine learning, and web development through an interactive Flask interface.
-
-<br>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+**Turning Data into Insights Through Python and Web Development**
 
 <br>
 
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github&logoColor=white)](https://github.com/AbdalrahmanOthman01/AIS4_S1_3)
-![Project](https://img.shields.io/badge/Project-DEPI--Team-6C63FF?style=flat)
-![License](https://img.shields.io/badge/License-MIT-2EA44F?style=flat)
+<a href="https://github.com/AbdalrahmanOthman01/AIS4_S1_3">
+<img src="https://img.shields.io/badge/Explore%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repository"/>
+</a>
+<a href="assets/DEPI%20Presentation.pdf">
+<img src="https://img.shields.io/badge/Project-Presentation-6C63FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Project Presentation"/>
+</a>
+<a href="assets/DEPI_Demo.mp4">
+<img src="https://img.shields.io/badge/Watch-Demo-00A8CC?style=for-the-badge&logo=googleplay&logoColor=white" alt="Project Demo"/>
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/DEPI-Team%20Project-6C63FF?style=for-the-badge" alt="DEPI Team Project"/>
+<img src="https://img.shields.io/badge/Status-Project%20Repository-168AAD?style=for-the-badge" alt="Project Repository"/>
 
 </div>
 
 ---
 
-## 📑 Table of Contents
+## 📌 Table of Contents
 
-- [🚀 Project Overview](#-project-overview)
-- [🧰 Features](#-features)
-- [🛠️ Technologies](#️-technologies)
-- [📁 Project Structure](#-project-structure)
-- [👥 Team Members & Contributions](#-team-members--contributions)
-- [📽️ Project Presentation & Demo](#️-project-presentation--demo)
-- [📂 Directory Guide](#-directory-guide)
-- [⚙️ Installation](#️-installation)
-- [▶️ Usage](#️-usage)
-- [📊 Data Analysis Workflow](#-data-analysis-workflow)
-- [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
+<details open>
+<summary><b>🧭 Navigate Through the Project</b></summary>
+
+<br>
+
+| Section | Section | 
+|:--|:--|
+| [🚀 Overview](#-project-overview) | [✨ Features](#-key-features) |
+| [🛠️ Tech Stack](#️-technology-stack) | [📁 Structure](#-project-structure) |
+| [👥 Our Team](#-team-members--contributions) | [🎬 Demo & Presentation](#-project-demo--presentation) |
+| [⚙️ Installation](#️-installation--setup) | [▶️ Run the Application](#️-running-the-application) |
+| [📊 Workflow](#-data-analysis-workflow) | [🤝 Contributing](#-contributing) |
+| [📜 License](#-license) | |
+
+</details>
 
 ---
 
 ## 🚀 Project Overview
 
-**AIS4_S1_3** is a collaborative project developed by a team participating in the **Digital Egypt Pioneers Initiative (DEPI)**.
+<table>
+<tr>
+<td>
 
-The project demonstrates a data science workflow that integrates data exploration, preprocessing, visualization, model development, and web application deployment.
+**AIS4_S1_3** is a collaborative project developed by the **Digital Egypt Pioneers Initiative (DEPI) team**.
 
-Using Python's data science ecosystem and the Flask framework, the application provides a web interface for interacting with the project's functionality and presenting data-driven results.
+The project brings together data analysis, visualization, machine learning workflows, and web development in a Python-based application powered by Flask.
 
-### 🎯 Project Objectives
+From exploring structured datasets to presenting analytical results through a web interface, the project demonstrates how different stages of a data workflow can be organized into one integrated application.
 
-- Explore and understand structured datasets.
-- Prepare and preprocess data for further analysis.
-- Build and evaluate machine learning models.
-- Visualize data and communicate meaningful insights.
-- Integrate project functionality into a Flask web application.
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+| 📊 Data Analysis | 🧠 Model Development | 🌐 Web Application |
+|:---:|:---:|:---:|
+| Explore and prepare data | Train and evaluate models | Present functionality through Flask |
+
+</div>
+
+### 🎯 Project Goals
+
+- Transform raw data into structured, usable information.
+- Explore patterns, distributions, and relationships in datasets.
+- Develop and evaluate machine learning models where applicable.
+- Communicate analytical findings through visualizations.
+- Integrate project components into a web application.
 
 ---
 
-## 🧰 Features
+## ✨ Key Features
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📊 Exploratory Data Analysis
 
-Explore datasets using Jupyter Notebooks and investigate distributions, patterns, and relationships between features.
+Explore the dataset using Jupyter Notebooks, inspect its structure, and investigate patterns and feature relationships.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📈 Data Visualization
 
-Create charts and visual representations to communicate patterns and analytical findings.
+Represent analytical findings through charts and graphical visualizations to make patterns easier to understand.
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🧠 Model Development
 
-Organize model-building, training, and testing workflows to evaluate predictive performance.
+Organize the model-building, training, testing, and evaluation workflow.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌐 Flask Web Application
+### 🌐 Flask Integration
 
-Provide a web interface that connects project functionality with user interaction.
+Connect project functionality to a web interface for user interaction and presentation.
 
 </td>
 </tr>
 <tr>
-<td colspan="2">
+<td colspan="2" valign="top">
 
-### 📁 Dataset Management
+### 🗂️ Organized Project Components
 
-Include the project dataset in a compressed archive (`data.rar`) for local setup, subject to the availability of the required extraction tools.
+Separate notebooks, model resources, frontend assets, application templates, and supporting utilities into dedicated directories.
 
 </td>
 </tr>
@@ -107,18 +138,33 @@ Include the project dataset in a compressed archive (`data.rar`) for local setup
 
 ---
 
-## 🛠️ Technologies
+## 🛠️ Technology Stack
 
-| Technology | Purpose |
-|---|---|
-| Python | Core programming language |
+<div align="center">
+
+### Core Technologies
+
+<img src="https://skillicons.dev/icons?i=python,flask,html,css,js,git,github&theme=dark" alt="Core technology icons"/>
+
+### Data Science & Analysis
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+
+</div>
+
+| Technology | Role |
+|:--|:--|
+| Python | Core application and data processing |
 | Pandas | Data manipulation and preprocessing |
-| NumPy | Numerical computing |
+| NumPy | Numerical operations |
 | Matplotlib | Data visualization |
-| Flask | Web application development |
+| Flask | Backend web framework |
 | Jupyter Notebook | Data exploration and experimentation |
-| HTML, CSS, JavaScript | Frontend technologies, where applicable |
-| Git & GitHub | Version control and collaboration |
+| HTML / CSS / JavaScript | Frontend technologies, where applicable |
+| Git / GitHub | Version control and collaboration |
 
 ---
 
@@ -132,9 +178,16 @@ AIS4_S1_3/
 │   └── DEPI_Demo.mp4
 │
 ├── Notebooks/
+│   └── Data exploration and analysis
+│
 ├── models/
+│   └── Model resources
+│
 ├── static/
+│   └── CSS, JavaScript, and images
+│
 ├── templates/
+│   └── HTML templates
 │
 ├── app.py
 ├── eda_utils.py
@@ -143,56 +196,76 @@ AIS4_S1_3/
 └── README.md
 ```
 
-> **Note:** The directory structure above represents the intended project layout. Actual files and folders may vary depending on the latest repository contents.
+<details>
+<summary><b>📂 Explore the directory guide</b></summary>
+
+| File / Directory | Description |
+|:--|:--|
+| `assets/` | Presentation slides and demo video |
+| `Notebooks/` | Data exploration and analysis notebooks |
+| `models/` | Model files and related resources |
+| `static/` | Static web assets |
+| `templates/` | HTML templates for Flask |
+| `app.py` | Main application entry point |
+| `eda_utils.py` | Data analysis utility functions |
+| `requirements.txt` | Python dependencies |
+| `data.rar` | Compressed dataset archive |
+| `README.md` | Project documentation |
+
+</details>
 
 ---
 
 ## 👥 Team Members & Contributions
 
-| Team Member | Responsibilities |
-|---|---|
-| **Mohamed Omar** | Data Overview & Preprocessing |
-| **Habiba Maged** | Data Visualization |
-| **Esraa Yaser** | Model Building, Training & Testing |
-| **Abdalrahman Hossam** | Application Deployment |
+<div align="center">
 
-### 🤝 Team Collaboration
+| Team Member | Contribution | Focus Area |
+|:--|:--|:--|
+| **Mohamed Omar** | Data Overview & Preprocessing | Data Preparation |
+| **Habiba Maged** | Data Visualization | Visual Analytics |
+| **Esraa Yaser** | Model Building, Training & Testing | Machine Learning |
+| **Abdalrahman Hossam** | Application Deployment | Web Application |
 
-The project was developed collaboratively, with each team member contributing to a different stage of the workflow, from data preparation and visualization to model development and application deployment.
+</div>
 
----
+### 🤝 One Team. Different Strengths. Shared Results.
 
-## 📽️ Project Presentation & Demo
-
-Explore the project presentation and watch the application demonstration.
-
-- 📑 **[View the DEPI Presentation](assets/DEPI%20Presentation.pdf)** — Project overview, workflow, and presentation slides.
-- 🎬 **[Watch the Project Demo](assets/DEPI_Demo.mp4)** — Video demonstration of the application.
-
-> Ensure both files are uploaded to the `assets/` directory in the repository for these links to work.
+Each team member contributed to a different stage of the project workflow, bringing together data preparation, visualization, model development, and application deployment.
 
 ---
 
-## 📂 Directory Guide
+## 🎬 Project Demo & Presentation
 
-| File / Directory | Description |
-|---|---|
-| `assets/` | Project presentation and demo video |
-| `Notebooks/` | Data exploration, experimentation, and analysis |
-| `models/` | Model files and related resources |
-| `static/` | Static frontend assets, such as CSS, JavaScript, and images |
-| `templates/` | HTML templates for the Flask application |
-| `app.py` | Main Flask application entry point |
-| `eda_utils.py` | Utility functions for exploratory data analysis |
-| `requirements.txt` | Python package dependencies |
-| `data.rar` | Compressed dataset archive |
-| `README.md` | Project documentation |
+<div align="center">
+
+### 📑 Project Presentation
+
+<a href="assets/DEPI%20Presentation.pdf">
+<img src="https://img.shields.io/badge/OPEN-PRESENTATION-6C63FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Open Presentation"/>
+</a>
+
+Explore the project presentation, objectives, workflow, and key components.
+
+<br><br>
+
+### 🎥 Application Demo
+
+<a href="assets/DEPI_Demo.mp4">
+<img src="https://img.shields.io/badge/WATCH-PROJECT%20DEMO-00A8CC?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Watch Project Demo"/>
+</a>
+
+Watch the recorded demonstration of the application.
+
+</div>
+
+> **Note:** Both files must exist in `assets/` with the exact filenames shown above for the links to work.
 
 ---
 
-## ⚙️ Installation
+## ⚙️ Installation & Setup
 
-Follow these steps to run the project locally.
+Follow these steps to prepare the project on your local machine.
 
 ### 1. Clone the Repository
 
@@ -209,19 +282,19 @@ python -m venv venv
 
 ### 3. Activate the Environment
 
-**Windows — PowerShell:**
+**Windows — PowerShell**
 
 ```powershell
 .\venv\Scripts\Activate.ps1
 ```
 
-**Windows — Command Prompt:**
+**Windows — Command Prompt**
 
 ```bat
 venv\Scripts\activate.bat
 ```
 
-**Linux / macOS:**
+**Linux / macOS**
 
 ```bash
 source venv/bin/activate
@@ -236,99 +309,138 @@ pip install -r requirements.txt
 
 ### 5. Prepare the Dataset
 
-If the application requires the dataset:
-
-1. Locate `data.rar` in the project directory.
-2. Extract the archive using a compatible extraction tool.
-3. Place the extracted files in the directory expected by the application.
-
-Make sure the dataset paths in the project code match the extracted file locations.
+If the application requires `data.rar`, extract it using a compatible archive utility and place the resulting files in the locations expected by the application.
 
 ---
 
-## ▶️ Usage
+## ▶️ Running the Application
 
-After installing the dependencies and preparing the required data, start the Flask application:
+After installing the dependencies and preparing the required files, run:
 
 ```bash
 python app.py
 ```
 
-Open your browser and navigate to:
+Open your browser and visit:
 
-**http://127.0.0.1:5000/**
+<div align="center">
 
-If the application uses a different host or port, follow the configuration defined in `app.py`.
+<a href="http://127.0.0.1:5000/">
+<img src="https://img.shields.io/badge/LOCAL%20APPLICATION-http%3A%2F%2F127.0.0.1%3A5000-168AAD?style=for-the-badge&logo=flask&logoColor=white" alt="Local Flask Application"/>
+</a>
+
+</div>
+
+**Local URL:** `http://127.0.0.1:5000/`
+
+The application address may differ if the host or port is configured differently in `app.py`.
 
 ---
 
 ## 📊 Data Analysis Workflow
 
-The project follows a workflow that connects data preparation, analysis, model development, and application delivery.
+<div align="center">
 
-1. **Data Overview** — Inspect the dataset structure, columns, data types, and initial statistics.
-2. **Data Preprocessing** — Handle missing values, prepare features, and perform the required transformations.
-3. **Exploratory Data Analysis** — Investigate distributions, patterns, and relationships within the data.
-4. **Data Visualization** — Present relevant findings through charts and plots.
-5. **Model Building** — Develop and train the selected machine learning model.
-6. **Model Evaluation** — Test the model and assess its performance using appropriate evaluation metrics.
-7. **Application Deployment** — Integrate the project components into the Flask application.
+```mermaid
+flowchart TD
+    A["📂 Dataset"] --> B["🔍 Data Overview"]
+    B --> C["🧹 Preprocessing"]
+    C --> D["📊 Exploratory Analysis"]
+    D --> E["📈 Visualization"]
+    E --> F["🧠 Model Building"]
+    F --> G["🧪 Testing & Evaluation"]
+    G --> H["🌐 Flask Application"]
+
+    style A fill:#141E46,color:#FFFFFF,stroke:#6C63FF
+    style B fill:#202D5A,color:#FFFFFF,stroke:#6C63FF
+    style C fill:#29366B,color:#FFFFFF,stroke:#6C63FF
+    style D fill:#344480,color:#FFFFFF,stroke:#00C9FF
+    style E fill:#3F5296,color:#FFFFFF,stroke:#00C9FF
+    style F fill:#514FC0,color:#FFFFFF,stroke:#A78BFA
+    style G fill:#6257D9,color:#FFFFFF,stroke:#A78BFA
+    style H fill:#007F95,color:#FFFFFF,stroke:#00C9FF
+```
+
+</div>
+
+The workflow illustrates how data preparation and analysis can connect with model evaluation and web application delivery. The exact steps depend on the implementation in the repository.
 
 ---
 
 ## 🤝 Contributing
 
-Contributions and improvements are welcome.
+Improvements and contributions are welcome.
 
-### Step 1 — Fork the Repository
+<details>
+<summary><b>Step 1 — Fork the Repository</b></summary>
 
-Create a fork of the repository on GitHub.
+Create your own fork of this repository on GitHub.
 
-### Step 2 — Create a Feature Branch
+</details>
+
+<details>
+<summary><b>Step 2 — Create a Feature Branch</b></summary>
 
 ```bash
 git checkout -b feature/your-feature
 ```
 
-### Step 3 — Commit Your Changes
+</details>
+
+<details>
+<summary><b>Step 3 — Commit Your Changes</b></summary>
 
 ```bash
 git add .
 git commit -m "Describe your changes"
 ```
 
-### Step 4 — Push Your Branch
+</details>
+
+<details>
+<summary><b>Step 4 — Push Your Branch</b></summary>
 
 ```bash
 git push origin feature/your-feature
 ```
 
-### Step 5 — Open a Pull Request
+</details>
 
-Open a pull request describing your changes and their purpose.
+<details>
+<summary><b>Step 5 — Open a Pull Request</b></summary>
+
+Open a pull request with a clear description of your changes and their purpose.
+
+</details>
 
 ---
 
-## 📄 License
+## 📜 License
 
-This project is distributed under the **MIT License**.
+This project is intended to use the **MIT License**. Refer to the repository's `LICENSE` file for the applicable license terms.
 
-If the repository includes an MIT license file, refer to `LICENSE` for the complete terms.
-
-For more information, visit the [MIT License page](https://opensource.org/licenses/MIT).
+Learn more about the [MIT License](https://opensource.org/licenses/MIT).
 
 ---
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:6C63FF,100:141E46&height=130&section=footer" width="100%" alt="Decorative project footer"/>
+
 ### 💜 AIS4_S1_3 — DEPI Team Project
 
-**Data Analysis · Machine Learning · Visualization · Web Development**
+**Data Analysis · Machine Learning · Visualization · Flask**
 
-Built collaboratively with Python and Flask.
+*Built through collaboration, experimentation, and data-driven thinking.*
 
 <br>
 
-[![Explore Repository](https://img.shields.io/badge/Explore_the_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdalrahmanOthman01/AIS4_S1_3)
+<a href="https://github.com/AbdalrahmanOthman01/AIS4_S1_3">
+<img src="https://img.shields.io/badge/⭐%20Explore%20the%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore the Repository"/>
+</a>
+
+<br><br>
+
+<sub>Digital Egypt Pioneers Initiative · Team Project</sub>
 
 </div>
